@@ -1,0 +1,7 @@
+{
+  "name": "mingdeng-miju",
+  "buildCommand": "npm run build:web",
+  "installCommand": "npm install",
+  "outputDirectory": "./dist",
+  "nodeVersion": "22.11.0"
+}

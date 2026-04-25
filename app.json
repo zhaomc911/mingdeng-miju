@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mingdeng-miju",
+    "name": "明灯迷局",
     "slug": "mingdeng-miju",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,8 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
     }
   }
 }
